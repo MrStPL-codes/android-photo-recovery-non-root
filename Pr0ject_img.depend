@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587327774 source:d:\c++\pr0ject_img\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+
